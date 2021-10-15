@@ -29,7 +29,3 @@ public class WikiSelenide {
         $(byText("Using JUnit5 extend test class:")).shouldBe(visible);
     }
 }
-
-
-
-
